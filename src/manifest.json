@@ -3,7 +3,7 @@
 "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiO4aNqotAnReCFEyxoctGQN74UDfx3nOZ/yB5mZuVhdnG0rqNq6mOSYwz2lqiplEjnA7l3s5AebPFY1IUMFs5FfQVt48J9kK7zIIT+330ADpkeRvmGMBIk2jmRKW2VcUeq7MhQl//ZGpqU65YvF5o6kxNg57BjnQLf46buV/Yg91EYAgpi3eZ1i8ab9MwIfxbsA8Kmoopys0kk6/5UUSSRbVnf+vUd6AzHHbxNKS3z4/Y1tQomjUI7QDtI3nqfXUksHmCCiq+k8sSQNsavZ94Fqb9lCOl/6N1gYFgDkGubdQ+9p0gyyLtMfjBQg4cv4yJALr5VcsCsGdFW0MPBOrMwIDAQAB",
 "version": "0.1",
 "version_name": "alpha",
-"permissions": [ "tabs", "nativeMessaging" ],
+"permissions": [ "tabs", "contextMenus", "nativeMessaging" ],
 "background": { "persistent": false, "scripts": [ "hu.moli.kdeconnect.js" ] },
 "browser_action": { },
 "name": "kdeconnect",

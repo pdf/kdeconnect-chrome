@@ -5,7 +5,7 @@
 "version_name": "alpha",
 "permissions": [ "tabs", "nativeMessaging" ],
 "background": { "persistent": false, "scripts": [ "hu.moli.kdeconnect.js" ] },
-"page_action": { },
+"browser_action": { },
 "name": "kdeconnect",
 "homepage_url": "https://github.com/phpmoli/kdeconnect-chrome",
 "author": "moli.hu",
